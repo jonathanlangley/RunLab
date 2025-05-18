@@ -1,2 +1,3 @@
 # RunLab
-AI-powered running analytics notebook project
+
+Starter project for AI-powered running analytics.
